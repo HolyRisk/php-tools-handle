@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Holyrisk\TpLayuiPage;
+namespace Holyrisk\PhpToolsHandle;
 
 use think\Paginator;
 
