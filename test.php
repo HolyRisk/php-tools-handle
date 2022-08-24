@@ -1,7 +1,7 @@
 <?php
 require_once "vendor/autoload.php";
 
-use Holyrisk\TpLayuiPage\StringHandle;
+use Holyrisk\PhpToolsHandle\StringHandle;
 
 $obj = new StringHandle();
 $ret = $obj->run();
