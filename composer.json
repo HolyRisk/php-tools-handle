@@ -1,6 +1,6 @@
 {
     "name": "holyrisk/php-tools-handle",
-    "description": "php handle class tools",
+    "description": "php handle class tools.List of currently implemented functions:1.thinkphp layui page[tp layui page]",
     "autoload": {
         "psr-4": {
             "Holyrisk\\PhpToolsHandle\\": "src/"
