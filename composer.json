@@ -1,0 +1,17 @@
+{
+    "name": "holyrisk/php-tools-handle",
+    "description": "php handle class tools",
+    "autoload": {
+        "psr-4": {
+            "Holyrisk\\PhpToolsHandle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Holyrisk",
+            "email": "792034260@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
